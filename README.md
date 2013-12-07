@@ -1,4 +1,4 @@
-organizacyjne
-=============
+DrupalCamp Wrocław - Sprawy organizacyjne
+==========================================
 
-Sprawy organizacyjne
+Zobacz -->> https://github.com/DrupalCampWroclaw/organizacyjne/issues
